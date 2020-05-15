@@ -16,7 +16,7 @@ Performing analysis on Kickstarter data to uncover trends.
 - Fact Finding : There's a pike of success during summer season, but that tapers off by the end of the year.
 
 ## Descriptive Statistics on Plays subcategory 
-![DescriptiveStatistics.PNG](http://github.com/Juuune/Kickstarter_Analysis/blob/master/DescriptiveStatistics.PNG)
+![DescriptiveStatistics.PNG](https://github.com/Juuune/Kickstarter_Analysis/blob/master/DescriptiveStatistics.PNG)
 - Fact Finding : Successful campaigns has more centrally distributed than failed campaigns, Failed campaigns is skewed to right.
 - Fact Finding : Failed campaigns(standard deviation of goal: 21968) scattered more widely than successful campaigns(stadard deviation of goal: 7758).
 - Fact Finding : The mean goal of failed campaigns is much higher than successful campaigns and the difference between goal and actual pledged is bigger in failed campaigns. 
