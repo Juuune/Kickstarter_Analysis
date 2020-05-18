@@ -26,7 +26,7 @@ Performing analysis on Kickstarter data to uncover trends.
 
 ## Outcomes Based on Launch date for Theater
 ![OutcomesBasedonLanchdateTheater.PNG](https://github.com/Juuune/Kickstarter_Analysis/blob/master/OutcomesBasedonLaunchdateTheater.PNG)
-- Fact Finding : The theater category follows the trends. The most successful campaigns were began in May, but campaigns starts on winter season didn't performed well.
+- Fact Finding : The theater category follows the trends. The most successful campaigns were began in May, but campaigns start on winter season didn't perform well.
 
 ## Outcomes Based on Goal
 ![OutcomesBasedonGoal.PNG](https://github.com/Juuune/Kickstarter_Analysis/blob/master/OutcomesBasedonGoal.PNG)
