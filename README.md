@@ -1,5 +1,8 @@
 # An Analysis of Kickstarter Campaigns.
-Performing analysis on Kickstarter data to uncover trends.
+Data analysis on Kickstarter data to uncover trends and facts in successful campaigns. 
+
+## Techniques used 
+- Microsoft Excel with vlookup, pivot and plots  
 
 ## Parent Category Statistics
 ![ParentCategoryOutcomes.PNG](https://github.com/Juuune/Kickstarter_Analysis/blob/master/ParentCategoryOutcomes.PNG) 
