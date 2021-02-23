@@ -1,9 +1,11 @@
-# An Analysis of Kickstarter Campaigns.
-Data analysis on Kickstarter data to uncover trends and facts in successful campaigns. 
+# Analysis on kickstarter campaigns.
+## Overview
+An analysis to find trends on successful crowdfunding projects of kickstarter campaigns. 
 
 ## Techniques used 
 - Microsoft Excel with vlookup, pivot and plots  
 
+# Initial analysis : to understand kickstater data  
 ## Parent Category Statistics
 ![ParentCategoryOutcomes.PNG](https://github.com/Juuune/Kickstarter_Analysis/blob/master/ParentCategoryOutcomes.PNG) 
 - Conducted campaign's success statistics for Parent Category and We can see that theater has most campaigns, total of 912 in U.S.
@@ -25,8 +27,7 @@ Data analysis on Kickstarter data to uncover trends and facts in successful camp
 - Fact Finding : The mean goal of failed campaigns is much higher than successful campaigns and the difference between goal and actual pledged is bigger in failed campaigns. 
 
 
-### Challenge
-
+# Additional analysis : to identify characteristics of the successful campaign
 ## Outcomes Based on Launch date for Theater
 ![OutcomesBasedonLanchdateTheater.PNG](https://github.com/Juuune/Kickstarter_Analysis/blob/master/OutcomesBasedonLaunchdateTheater.PNG)
 - Fact Finding : The theater category follows the trends. The most successful campaigns were began in May, but campaigns start on winter season didn't perform well.
@@ -36,7 +37,7 @@ Data analysis on Kickstarter data to uncover trends and facts in successful camp
 - Fact Finding : The mean goal of failed campaigns is much higher than successful campaigns in plays
 - Fact Finding : The most successful campaign's goal lies between $1000 to $5000
 
-## Conclusion of Kickstarter Analysis and recommendation
+# Conclusion of Kickstarter Analysis and recommendation
 - Theater campaign is most popular and successful kickstarter campaign category in U.S, that means our client Louise has better chance to success. 
 - When to start campaign has an impact on campaign's success. It's better to consifer start the new campaign on summer season (May or June) 
 - Setting an appropriate goal is another key to campaign's success. Campaigns aim to gain between $1000 to $5000 were most successful. 
